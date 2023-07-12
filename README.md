@@ -1,3 +1,5 @@
+This HACS custom integration is a fork from @briancmpbll and support liftime production for a Envoy S metered without CT-coil, see issue [#88](https://github.com/briancmpbll/home_assistant_custom_envoy/issues/88)\
+
 This is a HACS custom integration for enphase envoys with firmware version 7.X. This integration is based off work done by @DanBeard, with some changes to report individual battery status.
 
 # Installation
